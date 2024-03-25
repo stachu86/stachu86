@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stachu86)
+
+![Project Euler account badge](https://projecteuler.net/profile/stachu86.png "Account badge")
