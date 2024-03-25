@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stachu86&hide=stars)
 
-![Project Euler account badge](https://projecteuler.net/profile/stachu86.png "Account badge")
+[![Project Euler account badge](https://projecteuler.net/profile/stachu86.png "projecteuler.net")](https://projecteuler.net/progress=stachu86)
